@@ -1,0 +1,70 @@
+{
+    "count": 9,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "ce380038-093b-47ee-a9b2-5d554c93c3c6",
+            "collectionId": "Russian",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Russian/Russian_Speech/ce380038-093b-47ee-a9b2-5d554c93c3c6/ce380038-093b-47ee-a9b2-5d554c93c3c6_ru_Female.mp4"
+        },
+        {
+            "id": "19079c8a-c64b-4069-964c-a8b7e1582fad",
+            "collectionId": "Russian",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Russian/Russian_Speech/19079c8a-c64b-4069-964c-a8b7e1582fad/19079c8a-c64b-4069-964c-a8b7e1582fad_ru_Female.mp4"
+        },
+        {
+            "id": "679f9b95-cf3d-48f3-8deb-5343fb9d79c6",
+            "collectionId": "Russian",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Russian/Russian_Speech/679f9b95-cf3d-48f3-8deb-5343fb9d79c6/679f9b95-cf3d-48f3-8deb-5343fb9d79c6_ru_Male.mp4"
+        },
+        {
+            "id": "29af4d88-3e4d-466e-b531-1964b59cdb7f",
+            "collectionId": "Russian",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Russian/Russian_Speech/29af4d88-3e4d-466e-b531-1964b59cdb7f/29af4d88-3e4d-466e-b531-1964b59cdb7f_ru_Male.mp4"
+        },
+        {
+            "id": "03544068-2eca-4a8a-a490-938289da2f2d",
+            "collectionId": "Russian",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Russian/Russian_Speech/03544068-2eca-4a8a-a490-938289da2f2d/03544068-2eca-4a8a-a490-938289da2f2d_ru_Male.mp4"
+        },
+        {
+            "id": "6d601d5f-256d-4af0-b922-a03d9e6c7cdb",
+            "collectionId": "Russian",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Russian/Russian_Speech/6d601d5f-256d-4af0-b922-a03d9e6c7cdb/6d601d5f-256d-4af0-b922-a03d9e6c7cdb_ru_Female.mp4"
+        },
+        {
+            "id": "d543b394-6618-4faf-9658-cbed08d17cd3",
+            "collectionId": "Russian",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Russian/Russian_Speech/d543b394-6618-4faf-9658-cbed08d17cd3/d543b394-6618-4faf-9658-cbed08d17cd3_ru_Female.mp4"
+        },
+        {
+            "id": "50e208c5-9a8c-49b0-8a3a-7f8d71925fbe",
+            "collectionId": "Russian",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Russian/Russian_Speech/50e208c5-9a8c-49b0-8a3a-7f8d71925fbe/50e208c5-9a8c-49b0-8a3a-7f8d71925fbe_ru_Female.mp4"
+        },
+        {
+            "id": "fdf777b9-a9f7-4355-bb9d-6d9c9aa22f39",
+            "collectionId": "Russian",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Russian/Russian_Speech/fdf777b9-a9f7-4355-bb9d-6d9c9aa22f39/fdf777b9-a9f7-4355-bb9d-6d9c9aa22f39_ru_Female.mp4"
+        }
+    ]
+}
